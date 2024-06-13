@@ -13,7 +13,7 @@ namespace XIVLauncher.Common.Dalamud
 {
     public class AssetManager
     {
-        private const string ASSET_STORE_URL = "https://github.com/ekdjodiweknmicvne/knweiwnknehr/raw/main/asset.json";
+        private const string ASSET_STORE_URL = "https://ndiv.rayd.cc/Dalamud/Asset/Meta";
 
         internal class AssetInfo
         {
